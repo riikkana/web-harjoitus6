@@ -1,0 +1,42 @@
+body {
+    margin: 20px;
+}
+
+h3 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 7px 10px;
+    font-size: 14px;
+    background-color: #e6e6fa;
+    border: 1px solid #151414;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #d8bfd8;
+}
+
+p {
+    font-size: 1.1em;
+    margin-top: 20px;
+}
+
+table {
+    border-spacing: 20px;
+}
+
+td {
+    width: 23px;
+    height: 25px;
+    text-align: center;
+    font-size: 1.2em;
+    background-color: #f6deca;
+    border: 1px solid #050505;
+    border-radius: 5px;
+    
+}
